@@ -347,7 +347,8 @@ For the api folder:
 
 ## Contact
 
-Project Link:
+Email: [ayushawasthi2409@gmail.com](ayushawasthi2409@gmail.com)
+Project Link: [https://github.com/ayushawasthi24/TruConnect](https://github.com/ayushawasthi24/TruConnect)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
