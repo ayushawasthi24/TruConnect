@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: http://www.trumio.site
+
+# Sitemaps
+Sitemap: http://www.trumio.site/sitemap.xml
